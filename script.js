@@ -420,7 +420,7 @@ function saveCart() {
 
     }
 
-
+}
 
 /**
  * Soma total do carrinho
