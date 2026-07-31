@@ -115,8 +115,7 @@ const PRODUCTS = [
         sort_order: 4,
     },
 
-
-];
+;
  {
         id: "garfo-trinchante-guaiaco",
 
