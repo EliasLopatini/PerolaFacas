@@ -90,30 +90,30 @@ const PRODUCTS = [
     },
 
 
-    {
-        id: "faca-chef-8",
+   {
+    id: "faca-chef-8",
 
-        name: "Faca de Cozinha Chef 8\"",
+    name: "Faca de Cozinha Chef 8\"",
 
-        description:
-            "Uso diário na cozinha, equilíbrio perfeito entre lâmina e cabo.",
+    description:
+        "Uso diário na cozinha, equilíbrio perfeito entre lâmina e cabo.",
 
-        category: "Facas",
+    category: "Facas",
 
-        price_cents: 19990,
+    price_cents: 19990,
 
-        compare_at_cents: null,
+    compare_at_cents: null,
 
-        images: [],
+    images: [],
 
-        stock: 15,
+    stock: 15,
 
-        featured: false,
+    featured: false,
 
-        active: true,
+    active: true,
 
-        sort_order: 4,
-    },
+    sort_order: 4,
+},
 
  {
         id: "garfo-trinchante-guaiaco",
