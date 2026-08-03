@@ -3,16 +3,16 @@ const PRODUCTS = [
     {
         id: "faca-churrasqueira-10",
 
-        name: "Faca Churrasqueira 10\"",
+        name: "Garfo Trinchante Cabo Guaiaco\"",
 
         description:
-            "Lâmina em aço inox com fio afiado, cabo em madeira maciça. Ideal pro corte de carnes no churrasco.",
+            "Par perfeito para servir e segurar as carnes na hora do corte.",
 
-        category: "Facas",
+        category: "Garfos",
 
-        price_cents: 18990,
+        price_cents: 7990,
 
-        compare_at_cents: 22990,
+        compare_at_cents: 10000,
 
         images: ["img/item01-1.jpeg", "img/item01-2.jpeg", "img/item01-3.jpeg"],
 
@@ -29,14 +29,14 @@ const PRODUCTS = [
     {
         id: "faca-trinchar-carbono",
 
-        name: "Faca de Trinchar Aço Carbono",
+        name: "Estojo de presente",
 
         description:
-            "Fio que segura o corte por mais tempo, forjada e temperada à mão.",
+            "Excelente para presentear.",
 
         category: "Facas",
 
-        price_cents: 24990,
+        price_cents: 2000,
 
         compare_at_cents: null,
 
@@ -55,16 +55,16 @@ const PRODUCTS = [
     {
         id: "kit-churrasco-completo",
 
-        name: "Kit Churrasco Completo",
+        name: "Canivete Cabo De Madeira",
 
         description:
-            "Faca + garfo trinchante com cabo combinando, em estojo de presente.",
+            "Lâmina fina e flexível",
 
         category: "Facas",
 
-        price_cents: 34990,
+        price_cents: 10000,
 
-        compare_at_cents: 39990,
+        compare_at_cents: 6990,
 
         images: ["img/item03-1.jpeg", "img/item03-2.jpeg"],
 
@@ -81,14 +81,14 @@ const PRODUCTS = [
    {
     id: "faca-chef-8",
 
-    name: "Faca de Cozinha Chef 8\"",
+    name: "Canivete Dourado\"",
 
     description:
-        "Uso diário na cozinha, equilíbrio perfeito entre lâmina e cabo.",
+        "Lâmina fina e flexível.",
 
     category: "Facas",
 
-    price_cents: 19990,
+    price_cents: 7990,
 
     compare_at_cents: null,
 
