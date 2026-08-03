@@ -6,7 +6,7 @@ const PRODUCTS = [
         name: "Garfo Trinchante Cabo Guaiaco\"",
 
         description:
-            "Par perfeito para servir e segurar as carnes na hora do corte.",
+            "",
 
         category: "Garfos",
 
@@ -32,7 +32,7 @@ const PRODUCTS = [
         name: "Estojo de presente",
 
         description:
-            "Excelente para presentear.",
+            "",
 
         category: "Facas",
 
@@ -58,11 +58,11 @@ const PRODUCTS = [
         name: "Canivete Cabo De Madeira",
 
         description:
-            "Lâmina fina e flexível",
+            "",
 
         category: "Facas",
 
-        price_cents: 10000,
+        price_cents: 6990,
 
         compare_at_cents: 6990,
 
@@ -84,7 +84,7 @@ const PRODUCTS = [
     name: "Canivete Dourado\"",
 
     description:
-        "Lâmina fina e flexível.",
+        "",
 
     category: "Facas",
 
@@ -109,7 +109,7 @@ const PRODUCTS = [
         name: "Garfo Trinchante Cabo Guaiaco",
 
         description:
-            "Par perfeito para servir e segurar as carnes na hora do corte.",
+            "",
 
         category: "Garfos",
 
@@ -135,7 +135,7 @@ const PRODUCTS = [
         name: "Fileteira Flexível 6\"",
 
         description:
-            "Lâmina fina e flexível para filetar carnes e peixes com precisão.",
+            "",
 
         category: "Fileteiras",
 
@@ -161,7 +161,7 @@ const PRODUCTS = [
         name: "Tábua de Carne Grande",
 
         description:
-            "Madeira maciça tratada, superfície resistente a cortes profundos.",
+            "",
 
         category: "Tábuas",
 
@@ -187,7 +187,7 @@ const PRODUCTS = [
         name: "Tábua Redonda com Alça",
 
         description:
-            "Formato compacto com alça vazada, prática para servir à mesa.",
+            "",
 
         category: "Tábuas",
 
@@ -250,7 +250,7 @@ const PRODUCTS = [
 
     {
         id: "faca-item12",
-        name: "Faca Picanheira De Inox 420C, Cabo Híbrido, Acompanha Bainha",
+        name: "Faca Picanheira De Inox 10 Polegadas, Cabo Misto Madeira/Resina, Acompanha Bainha",
         description: "",
         category: "Facas",
         price_cents: 24990,
@@ -264,9 +264,9 @@ const PRODUCTS = [
 
     {
         id: "faca-item13",
-        name: "Faca",
+        name: "Faca Fileteira Em Aço Carbono 8 Polegadas, Cabo Em Madeira, Acompanha Bainha",
         description: "",
-        category: "Facas",
+        category: "Fileteiras",
         price_cents: 10000,
         compare_at_cents: null,
         images: ["img/item13-1.jpeg", "img/item13-2.jpeg", "img/item13-3.jpeg", "img/item13-4.jpeg"],
@@ -278,10 +278,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item14",
-        name: "Faca",
+        name: "Faca Em Inox 8 Polegadas, Cabo Em Madeira, Acompanha Bainha ",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 13990,
         compare_at_cents: null,
         images: ["img/item14-1.jpeg", "img/item14-2.jpeg", "img/item14-3.jpeg", "img/item14-4.jpeg", "img/item14-5.jpeg"],
         stock: 1,
@@ -292,10 +292,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item15",
-        name: "Faca",
+        name: "Faca Em Inox 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 14990,
         compare_at_cents: null,
         images: ["img/item15-1.jpeg", "img/item15-2.jpeg", "img/item15-3.jpeg", "img/item15-4.jpeg", "img/item15-5.jpeg"],
         stock: 1,
@@ -306,10 +306,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item16",
-        name: "Faca",
+        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 22990,
         compare_at_cents: null,
         images: ["img/item16-1.jpeg", "img/item16-2.jpeg", "img/item16-3.jpeg", "img/item16-4.jpeg", "img/item16-5.jpeg"],
         stock: 1,
@@ -320,10 +320,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item17",
-        name: "Faca",
+        name: "Faca Em Inox 8 Polegadas, Cabo Em Madeira",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 13990,
         compare_at_cents: null,
         images: ["img/item17-1.jpeg", "img/item17-2.jpeg", "img/item17-3.jpeg", "img/item17-4.jpeg", "img/item17-5.jpeg"],
         stock: 1,
@@ -334,10 +334,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item18",
-        name: "Faca",
+        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 22990,
         compare_at_cents: null,
         images: ["img/item18-1.jpeg", "img/item18-2.jpeg", "img/item18-3.jpeg", "img/item18-4.jpeg", "img/item18-5.jpeg"],
         stock: 1,
@@ -348,7 +348,7 @@ const PRODUCTS = [
 
     {
         id: "faca-item19",
-        name: "Faca Folha De Inox 8 420C, Cabo Em Chifre, Acompanha Bainha",
+        name: "Faca Folha De Inox 8 Polegada, Cabo Em Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
         price_cents: 14990,
@@ -362,10 +362,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item20",
-        name: "Faca",
+        name: "Faca Em Inox 10 Polegadas, Cabo Misto Madeira/Resina, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 24990,
         compare_at_cents: null,
         images: ["img/item20-1.jpeg", "img/item20-2.jpeg", "img/item20-3.jpeg", "img/item20-4.jpeg", "img/item20-5.jpeg", "img/item20-6.jpeg"],
         stock: 1,
@@ -376,10 +376,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item21",
-        name: "Faca",
+        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 11990,
         compare_at_cents: null,
         images: ["img/item21-1.jpeg", "img/item21-2.jpeg", "img/item21-3.jpeg", "img/item21-4.jpeg", "img/item21-5.jpeg"],
         stock: 1,
@@ -390,10 +390,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item22",
-        name: "Faca",
+        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 11990,
         compare_at_cents: null,
         images: ["img/item22-1.jpeg", "img/item22-2.jpeg", "img/item22-3.jpeg", "img/item22-4.jpeg"],
         stock: 1,
@@ -404,10 +404,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item23",
-        name: "Faca",
+        name: "Faca Em Aço Inox 8 Polegadas, Cabo Misto Madeira/Chifre, Acompanha Bainha ",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 15990,
         compare_at_cents: null,
         images: ["img/item23-1.jpeg", "img/item23-2.jpeg", "img/item23-3.jpeg", "img/item23-4.jpeg", "img/item23-5.jpeg", "img/item23-6.jpeg"],
         stock: 1,
@@ -418,10 +418,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item24",
-        name: "Faca",
+        name: "Faca Em Aço Inox 8 polegadas, Cabo Em Madeira, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 13990,
         compare_at_cents: null,
         images: ["img/item24-1.jpeg", "img/item24-2.jpeg", "img/item24-3.jpeg", "img/item24-4.jpeg", "img/item24-5.jpeg"],
         stock: 1,
@@ -432,10 +432,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item25",
-        name: "Faca",
+        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 11990,
         compare_at_cents: null,
         images: ["img/item25-1.jpeg", "img/item25-2.jpeg", "img/item25-3.jpeg", "img/item25-4.jpeg", "img/item25-5.jpeg"],
         stock: 1,
