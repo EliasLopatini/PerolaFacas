@@ -154,32 +154,7 @@ const PRODUCTS = [
     },
 
 
-    {
-        id: "tabua-redonda-alca",
-
-        name: "Faca em inox 10 polegadas, cabo em resina, acompanha bainha",
-
-        description:
-            "",
-
-        category: "Facas",
-
-        price_cents: 22990,
-
-        compare_at_cents: null,
-
-        images: ["img/item08-1.jpeg", "img/item08-2.jpeg", "img/item08-3.jpeg", "img/item08-4.jpeg", "img/item08-5.jpeg"],
-
-        stock: 9,
-
-        featured: false,
-
-        active: true,
-
-        sort_order: 8,
-    },
-
-    {
+       {
         id: "faca-item09",
         name: "Faca em inox 8 polegadas, cabo em madeira",
         description: "",
