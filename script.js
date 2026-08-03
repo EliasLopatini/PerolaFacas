@@ -1,58 +1,6 @@
 const PRODUCTS = [
 
     {
-        id: "faca-churrasqueira-10",
-
-        name: "Garfo Trinchante Cabo Guaiaco\"",
-
-        description:
-            "",
-
-        category: "Garfos",
-
-        price_cents: 7990,
-
-        compare_at_cents: 10000,
-
-        images: ["img/item01-1.jpeg", "img/item01-2.jpeg", "img/item01-3.jpeg"],
-
-        stock: 8,
-
-        featured: true,
-
-        active: true,
-
-        sort_order: 1,
-    },
-
-
-    {
-        id: "faca-trinchar-carbono",
-
-        name: "Estojo de presente",
-
-        description:
-            "",
-
-        category: "Facas",
-
-        price_cents: 2000,
-
-        compare_at_cents: null,
-
-        images: ["img/item02-1.jpeg"],
-
-        stock: 5,
-
-        featured: false,
-
-        active: true,
-
-        sort_order: 2,
-    },
-
-
-    {
         id: "kit-churrasco-completo",
 
         name: "Canivete Cabo De Madeira",
@@ -390,6 +338,57 @@ const PRODUCTS = [
         featured: false,
         active: true,
         sort_order: 25,
+    },
+
+     {
+        id: "faca-churrasqueira-10",
+
+        name: "Garfo Trinchante Cabo Guaiaco\"",
+
+        description:
+            "",
+
+        category: "Garfos",
+
+        price_cents: 7990,
+
+        compare_at_cents: 10000,
+
+        images: ["img/item01-1.jpeg", "img/item01-2.jpeg", "img/item01-3.jpeg"],
+
+        stock: 8,
+
+        featured: true,
+
+        active: true,
+
+        sort_order: 1,
+    },
+
+
+    {
+        id: "faca-trinchar-carbono",
+
+        name: "Estojo de presente",
+
+        description:
+            "",
+
+        category: "Facas",
+
+        price_cents: 2000,
+
+        compare_at_cents: null,
+
+        images: ["img/item02-1.jpeg"],
+
+        stock: 5,
+
+        featured: false,
+
+        active: true,
+
+        sort_order: 2,
     },
 
 ];
