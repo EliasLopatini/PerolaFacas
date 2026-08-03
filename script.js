@@ -323,7 +323,7 @@ const PRODUCTS = [
         stock: 1,
         featured: false,
         active: true,
-        sort_order: 24,
+        sort_order: 2,
     },
 
     {
@@ -337,7 +337,7 @@ const PRODUCTS = [
         stock: 1,
         featured: false,
         active: true,
-        sort_order: 25,
+        sort_order: 1,
     },
 
      {
@@ -362,7 +362,7 @@ const PRODUCTS = [
 
         active: true,
 
-        sort_order: 1,
+        sort_order: 25,
     },
 
 
@@ -388,7 +388,7 @@ const PRODUCTS = [
 
         active: true,
 
-        sort_order: 2,
+        sort_order: 24,
     },
 
 ];
