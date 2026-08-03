@@ -268,7 +268,7 @@ const PRODUCTS = [
 
     {
         id: "faca-item17",
-        name: "Faca Em Inox 8 Polegadas, Cabo Em Madeira",
+        name: "Faca Em Inox 8 Polegadas, Cabo Em Madeira, Acompanha Bainha",
         description: "",
         category: "Facas",
         price_cents: 13990,
