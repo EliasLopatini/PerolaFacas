@@ -14,7 +14,7 @@ const PRODUCTS = [
 
         compare_at_cents: 22990,
 
-        images: [],
+        images: ["img/item01-1.jpeg", "img/item01-2.jpeg", "img/item01-3.jpeg"],
 
         stock: 8,
 
@@ -40,7 +40,7 @@ const PRODUCTS = [
 
         compare_at_cents: null,
 
-        images: [],
+        images: ["img/item02-1.jpeg"],
 
         stock: 5,
 
@@ -66,7 +66,7 @@ const PRODUCTS = [
 
         compare_at_cents: 39990,
 
-        images: [],
+        images: ["img/item03-1.jpeg", "img/item03-2.jpeg"],
 
         stock: 6,
 
@@ -92,7 +92,7 @@ const PRODUCTS = [
 
     compare_at_cents: null,
 
-    images: [],
+    images: ["img/item04-1.jpeg", "img/item04-2.jpeg", "img/item04-3.jpeg", "img/item04-4.jpeg"],
 
     stock: 15,
 
@@ -117,7 +117,7 @@ const PRODUCTS = [
 
         compare_at_cents: null,
 
-        images: [],
+        images: ["img/item05-1.jpeg", "img/item05-2.jpeg", "img/item05-3.jpeg", "img/item05-4.jpeg"],
 
         stock: 12,
 
@@ -143,7 +143,7 @@ const PRODUCTS = [
 
         compare_at_cents: null,
 
-        images: [],
+        images: ["img/item06-1.jpeg", "img/item06-2.jpeg"],
 
         stock: 0,
 
@@ -169,7 +169,7 @@ const PRODUCTS = [
 
         compare_at_cents: null,
 
-        images: [],
+        images: ["img/item07-1.jpeg", "img/item07-2.jpeg", "img/item07-3.jpeg", "img/item07-4.jpeg"],
 
         stock: 10,
 
@@ -195,7 +195,7 @@ const PRODUCTS = [
 
         compare_at_cents: null,
 
-        images: [],
+        images: ["img/item08-1.jpeg", "img/item08-2.jpeg", "img/item08-3.jpeg", "img/item08-4.jpeg", "img/item08-5.jpeg"],
 
         stock: 9,
 
@@ -204,6 +204,244 @@ const PRODUCTS = [
         active: true,
 
         sort_order: 8,
+    },
+
+    {
+        id: "faca-item09",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item09-1.jpeg", "img/item09-2.jpeg", "img/item09-3.jpeg", "img/item09-4.jpeg", "img/item09-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 9,
+    },
+
+    {
+        id: "faca-item10",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item10-1.jpeg", "img/item10-2.jpeg", "img/item10-3.jpeg", "img/item10-4.jpeg", "img/item10-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 10,
+    },
+
+    {
+        id: "faca-item11",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item11-1.jpeg", "img/item11-2.jpeg", "img/item11-3.jpeg", "img/item11-4.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 11,
+    },
+
+    {
+        id: "faca-item12",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item12-1.jpeg", "img/item12-2.jpeg", "img/item12-3.jpeg", "img/item12-4.jpeg", "img/item12-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 12,
+    },
+
+    {
+        id: "faca-item13",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item13-1.jpeg", "img/item13-2.jpeg", "img/item13-3.jpeg", "img/item13-4.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 13,
+    },
+
+    {
+        id: "faca-item14",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item14-1.jpeg", "img/item14-2.jpeg", "img/item14-3.jpeg", "img/item14-4.jpeg", "img/item14-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 14,
+    },
+
+    {
+        id: "faca-item15",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item15-1.jpeg", "img/item15-2.jpeg", "img/item15-3.jpeg", "img/item15-4.jpeg", "img/item15-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 15,
+    },
+
+    {
+        id: "faca-item16",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item16-1.jpeg", "img/item16-2.jpeg", "img/item16-3.jpeg", "img/item16-4.jpeg", "img/item16-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 16,
+    },
+
+    {
+        id: "faca-item17",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item17-1.jpeg", "img/item17-2.jpeg", "img/item17-3.jpeg", "img/item17-4.jpeg", "img/item17-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 17,
+    },
+
+    {
+        id: "faca-item18",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item18-1.jpeg", "img/item18-2.jpeg", "img/item18-3.jpeg", "img/item18-4.jpeg", "img/item18-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 18,
+    },
+
+    {
+        id: "faca-item19",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item19-1.jpeg", "img/item19-2.jpeg", "img/item19-3.jpeg", "img/item19-4.jpeg", "img/item19-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 19,
+    },
+
+    {
+        id: "faca-item20",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item20-1.jpeg", "img/item20-2.jpeg", "img/item20-3.jpeg", "img/item20-4.jpeg", "img/item20-5.jpeg", "img/item20-6.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 20,
+    },
+
+    {
+        id: "faca-item21",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item21-1.jpeg", "img/item21-2.jpeg", "img/item21-3.jpeg", "img/item21-4.jpeg", "img/item21-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 21,
+    },
+
+    {
+        id: "faca-item22",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item22-1.jpeg", "img/item22-2.jpeg", "img/item22-3.jpeg", "img/item22-4.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 22,
+    },
+
+    {
+        id: "faca-item23",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item23-1.jpeg", "img/item23-2.jpeg", "img/item23-3.jpeg", "img/item23-4.jpeg", "img/item23-5.jpeg", "img/item23-6.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 23,
+    },
+
+    {
+        id: "faca-item24",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item24-1.jpeg", "img/item24-2.jpeg", "img/item24-3.jpeg", "img/item24-4.jpeg", "img/item24-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 24,
+    },
+
+    {
+        id: "faca-item25",
+        name: "Faca",
+        description: "",
+        category: "Facas",
+        price_cents: 10000,
+        compare_at_cents: null,
+        images: ["img/item25-1.jpeg", "img/item25-2.jpeg", "img/item25-3.jpeg", "img/item25-4.jpeg", "img/item25-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 25,
     },
 
 ];
@@ -279,6 +517,33 @@ function waLink(text) {
     );
 
     return false;
+
+}
+
+
+/**
+ * Pede um produto específico no WhatsApp
+ */
+function orderProductWhatsapp(id) {
+
+    const product =
+        PRODUCTS.find(
+            item =>
+                item.id === id
+        );
+
+
+    if (!product) {
+        return false;
+    }
+
+
+    const message =
+        `Olá! Tenho interesse na ${product.name} ` +
+        `(${formatBRL(product.price_cents)}).`;
+
+
+    return waLink(message);
 
 }
 
@@ -461,7 +726,8 @@ function cartCount() {
 
 
 /**
- * Adiciona produto ao carrinho
+ * Adiciona produto ao carrinho.
+ * Cada produto é uma peça única: só pode existir 1 no carrinho.
  */
 function addToCart(id) {
 
@@ -472,29 +738,6 @@ function addToCart(id) {
         );
 
 
-    if (existing) {
-
-        existing.qty += 1;
-
-    } else {
-
-        state.cart.push(
-            {
-                id,
-                qty: 1,
-            }
-        );
-
-    }
-
-
-    saveCart();
-
-    renderCartBadge();
-
-    renderCartDrawer();
-
-
     const product =
         PRODUCTS.find(
             item =>
@@ -502,43 +745,24 @@ function addToCart(id) {
         );
 
 
-    toast(
-        `${product.name} adicionado ao carrinho`,
-        "success"
-    );
+    if (existing) {
 
-}
+        toast(
+            `${product ? product.name : "Este produto"} já está no carrinho (peça única).`,
+            "error"
+        );
 
-
-/**
- * Altera quantidade de um item
- */
-function setQty(id, qty) {
-
-    if (qty <= 0) {
-
-        state.cart =
-            state.cart.filter(
-                item =>
-                    item.id !== id
-            );
-
-    } else {
-
-        const item =
-            state.cart.find(
-                product =>
-                    product.id === id
-            );
-
-
-        if (item) {
-
-            item.qty = qty;
-
-        }
+        return;
 
     }
+
+
+    state.cart.push(
+        {
+            id,
+            qty: 1,
+        }
+    );
 
 
     saveCart();
@@ -546,6 +770,12 @@ function setQty(id, qty) {
     renderCartBadge();
 
     renderCartDrawer();
+
+
+    toast(
+        `${product.name} adicionado ao carrinho`,
+        "success"
+    );
 
 }
 
@@ -613,8 +843,8 @@ function checkoutWhatsapp() {
 
 
                 return (
-                    `• ${item.qty}x ${product.name} — ` +
-                    `${formatBRL(product.price_cents * item.qty)}`
+                    `• ${product.name} — ` +
+                    `${formatBRL(product.price_cents)}`
                 );
 
             }
@@ -781,27 +1011,9 @@ function renderCartDrawer() {
                                 <div class="qty-row">
 
 
-                                    <button
-                                        class="btn btn-secondary btn-icon"
-                                        style="padding:4px;"
-                                        onclick="setQty('${product.id}', ${item.qty - 1})"
-                                    >
-                                        −
-                                    </button>
-
-
-                                    <span>
-                                        ${item.qty}
+                                    <span class="unique-tag">
+                                        Peça única
                                     </span>
-
-
-                                    <button
-                                        class="btn btn-secondary btn-icon"
-                                        style="padding:4px;"
-                                        onclick="setQty('${product.id}', ${item.qty + 1})"
-                                    >
-                                        +
-                                    </button>
 
 
                                     <button
@@ -1218,12 +1430,7 @@ function productCardHTML(product) {
                     btn-block
                 "
 
-                onclick="
-                    return waLink(
-                    'Olá! Tenho interesse na ${escapeAttr(product.name)}
-                    (${escapeAttr(formatBRL(product.price_cents))}).'
-                    )
-                "
+                onclick="return orderProductWhatsapp('${product.id}')"
 
             >
 
