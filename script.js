@@ -350,7 +350,7 @@ const PRODUCTS = [
 
         category: "Garfos",
 
-        price_cents: 7990,
+        price_cents: 2990,
 
         compare_at_cents: 10000,
 
