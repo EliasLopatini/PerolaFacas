@@ -250,10 +250,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item12",
-        name: "Faca",
+        name: "Faca Picanheira De Inox 420C, Cabo Híbrido, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 24990,
         compare_at_cents: null,
         images: ["img/item12-1.jpeg", "img/item12-2.jpeg", "img/item12-3.jpeg", "img/item12-4.jpeg", "img/item12-5.jpeg"],
         stock: 1,
@@ -348,10 +348,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item19",
-        name: "Faca",
+        name: "Faca Folha De Inox 8 420C, Cabo Em Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 14990,
         compare_at_cents: null,
         images: ["img/item19-1.jpeg", "img/item19-2.jpeg", "img/item19-3.jpeg", "img/item19-4.jpeg", "img/item19-5.jpeg"],
         stock: 1,
