@@ -401,7 +401,7 @@ const PRODUCTS = [
 
 const STORE_NAME = "Pérola Facas";
 
-const WHATSAPP_NUMBER = "5544998361783";
+const WHATSAPP_NUMBER = "5544997020313";
 
 
 const CATEGORY_EMOJI = {
