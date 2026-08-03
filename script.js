@@ -106,14 +106,14 @@ const PRODUCTS = [
  {
         id: "garfo-trinchante-guaiaco",
 
-        name: "Garfo Trinchante Cabo Guaiaco",
+        name: "Faca em inox 8 polegadas, Cabo em madeira, Acompanha Bainha",
 
         description:
             "",
 
         category: "Garfos",
 
-        price_cents: 7990,
+        price_cents: 15990,
 
         compare_at_cents: null,
 
@@ -128,44 +128,17 @@ const PRODUCTS = [
         sort_order: 5,
     },
 
-
-    {
-        id: "fileteira-flexivel-6",
-
-        name: "Fileteira Flexível 6\"",
-
-        description:
-            "",
-
-        category: "Fileteiras",
-
-        price_cents: 15990,
-
-        compare_at_cents: null,
-
-        images: ["img/item06-1.jpeg", "img/item06-2.jpeg"],
-
-        stock: 0,
-
-        featured: false,
-
-        active: true,
-
-        sort_order: 6,
-    },
-
-
     {
         id: "tabua-carne-grande",
 
-        name: "Tábua de Carne Grande",
+        name: "Faca em inox 10 polegadas, cabo em madeira, Acompanha Bainha",
 
         description:
             "",
 
-        category: "Tábuas",
+        category: "Facas",
 
-        price_cents: 21990,
+        price_cents: 15990,
 
         compare_at_cents: null,
 
@@ -184,14 +157,14 @@ const PRODUCTS = [
     {
         id: "tabua-redonda-alca",
 
-        name: "Tábua Redonda com Alça",
+        name: "Faca em inox 10 polegadas, cabo em resina, acompanha bainha",
 
         description:
             "",
 
-        category: "Tábuas",
+        category: "Facas",
 
-        price_cents: 13990,
+        price_cents: 22990,
 
         compare_at_cents: null,
 
@@ -208,10 +181,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item09",
-        name: "Faca",
+        name: "Faca em inox 8 polegadas, cabo em madeira",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 15990,
         compare_at_cents: null,
         images: ["img/item09-1.jpeg", "img/item09-2.jpeg", "img/item09-3.jpeg", "img/item09-4.jpeg", "img/item09-5.jpeg"],
         stock: 1,
@@ -267,7 +240,7 @@ const PRODUCTS = [
         name: "Faca Fileteira Em Aço Carbono 8 Polegadas, Cabo Em Madeira, Acompanha Bainha",
         description: "",
         category: "Fileteiras",
-        price_cents: 10000,
+        price_cents: 13990,
         compare_at_cents: null,
         images: ["img/item13-1.jpeg", "img/item13-2.jpeg", "img/item13-3.jpeg", "img/item13-4.jpeg"],
         stock: 1,
