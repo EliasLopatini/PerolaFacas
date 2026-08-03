@@ -156,7 +156,7 @@ const PRODUCTS = [
 
        {
         id: "faca-item09",
-        name: "Faca em inox 8 polegadas, cabo em madeira",
+        name: "Faca em inox 8 polegadas, cabo em madeira, Acompanha Bainha",
         description: "",
         category: "Facas",
         price_cents: 15990,
@@ -170,10 +170,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item10",
-        name: "Faca",
+        name: "Faca em inox 8 polegadas, cabo em madeira, acompanha bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 15990,
         compare_at_cents: null,
         images: ["img/item10-1.jpeg", "img/item10-2.jpeg", "img/item10-3.jpeg", "img/item10-4.jpeg", "img/item10-5.jpeg"],
         stock: 1,
@@ -184,10 +184,10 @@ const PRODUCTS = [
 
     {
         id: "faca-item11",
-        name: "Faca",
+        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
         category: "Facas",
-        price_cents: 10000,
+        price_cents: 11990,
         compare_at_cents: null,
         images: ["img/item11-1.jpeg", "img/item11-2.jpeg", "img/item11-3.jpeg", "img/item11-4.jpeg"],
         stock: 1,
