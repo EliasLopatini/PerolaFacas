@@ -33,7 +33,7 @@ const PRODUCTS = [
         category: "Facas",
         price_cents: 15990,
         compare_at_cents: null,
-        images: ["img/item09-1.jpeg", "img/item09-2.jpeg", "img/item09-3.jpeg", "img/item09-4.jpeg", "img/item09-5.jpeg"],
+        images: ["img/item06-2.jpeg", "img/item06-1.jpeg", "img/item05-4.jpeg", "img/item05-2.jpeg", "img/item05-3.jpeg"],
         stock: 1,
         featured: false,
         active: true,
