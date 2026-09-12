@@ -167,20 +167,6 @@ const PRODUCTS = [
     },
 
     {
-        id: "faca-item23",
-        name: "Faca Em Aço Inox 8 Polegadas, Cabo Misto Madeira/Chifre, Acompanha Bainha ",
-        description: "",
-        category: "Facas",
-        price_cents: 15990,
-        compare_at_cents: null,
-        images: ["img/item23-1.jpeg", "img/item23-2.jpeg", "img/item23-3.jpeg", "img/item23-4.jpeg", "img/item23-5.jpeg", "img/item23-6.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 23,
-    },
-
-    {
         id: "faca-item24",
         name: "Faca Em Aço Inox 8 polegadas, Cabo Em Madeira, Acompanha Bainha",
         description: "",
