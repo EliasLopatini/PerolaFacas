@@ -1,82 +1,6 @@
 const PRODUCTS = [
 
     {
-        id: "kit-churrasco-completo",
-
-        name: "Canivete Cabo De Madeira",
-
-        description:
-            "",
-
-        category: "Facas",
-
-        price_cents: 6990,
-
-        compare_at_cents: 6990,
-
-        images: ["img/item03-1.jpeg", "img/item03-2.jpeg"],
-
-        stock: 6,
-
-        featured: true,
-
-        active: true,
-
-        sort_order: 3,
-    },
-
-
-   {
-    id: "faca-chef-8",
-
-    name: "Canivete Dourado\"",
-
-    description:
-        "",
-
-    category: "Facas",
-
-    price_cents: 7990,
-
-    compare_at_cents: null,
-
-    images: ["img/item04-1.jpeg", "img/item04-2.jpeg", "img/item04-3.jpeg", "img/item04-4.jpeg"],
-
-    stock: 15,
-
-    featured: false,
-
-    active: true,
-
-    sort_order: 4,
-},
-
- {
-        id: "garfo-trinchante-guaiaco",
-
-        name: "Faca em inox 8 polegadas, Cabo em madeira, Acompanha Bainha",
-
-        description:
-            "",
-
-        category: "Garfos",
-
-        price_cents: 15990,
-
-        compare_at_cents: null,
-
-        images: ["img/item05-1.jpeg", "img/item05-2.jpeg", "img/item05-3.jpeg", "img/item05-4.jpeg"],
-
-        stock: 12,
-
-        featured: false,
-
-        active: true,
-
-        sort_order: 5,
-    },
-
-    {
         id: "tabua-carne-grande",
 
         name: "Faca em inox 10 polegadas, cabo em madeira, Acompanha Bainha",
@@ -114,20 +38,6 @@ const PRODUCTS = [
         featured: false,
         active: true,
         sort_order: 9,
-    },
-
-    {
-        id: "faca-item11",
-        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
-        description: "",
-        category: "Facas",
-        price_cents: 11990,
-        compare_at_cents: null,
-        images: ["img/item11-1.jpeg", "img/item11-2.jpeg", "img/item11-3.jpeg", "img/item11-4.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 11,
     },
 
     {
@@ -243,20 +153,6 @@ const PRODUCTS = [
     },
 
     {
-        id: "faca-item21",
-        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
-        description: "",
-        category: "Facas",
-        price_cents: 11990,
-        compare_at_cents: null,
-        images: ["img/item21-1.jpeg", "img/item21-2.jpeg", "img/item21-3.jpeg", "img/item21-4.jpeg", "img/item21-5.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 21,
-    },
-
-    {
         id: "faca-item22",
         name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
         description: "",
@@ -296,20 +192,6 @@ const PRODUCTS = [
         featured: false,
         active: true,
         sort_order: 2,
-    },
-
-    {
-        id: "faca-item25",
-        name: "Faca Em Aço Carbono 8 Polegadas, Cabo De Chifre, Acompanha Bainha",
-        description: "",
-        category: "Facas",
-        price_cents: 11990,
-        compare_at_cents: null,
-        images: ["img/item25-1.jpeg", "img/item25-2.jpeg", "img/item25-3.jpeg", "img/item25-4.jpeg", "img/item25-5.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 1,
     },
 
      {
