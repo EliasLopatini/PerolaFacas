@@ -11,7 +11,7 @@ const PRODUCTS = [
         stock: 1,
         featured: false,
         active: true,
-        sort_order: 27,
+        sort_order: 1,
     },
     
 {
@@ -205,7 +205,7 @@ const PRODUCTS = [
         stock: 1,
         featured: false,
         active: true,
-        sort_order: 2,
+        sort_order: 27,
     },
 
      {
