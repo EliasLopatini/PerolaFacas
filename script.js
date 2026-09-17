@@ -14,7 +14,7 @@ const PRODUCTS = [
         sort_order: 1,
     },
     
-{
+    {
         id: "faca-item08",
         name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
         description: "",
