@@ -1,6 +1,34 @@
 const PRODUCTS = [
 
     {
+        id: "faca-item18",
+        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
+        description: "",
+        category: "Facas",
+        price_cents: 22990,
+        compare_at_cents: null,
+        images: ["img/item18-1.jpeg", "img/item18-2.jpeg", "img/item18-3.jpeg", "img/item18-4.jpeg", "img/item18-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 27,
+    },
+    
+{
+        id: "faca-item08",
+        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
+        description: "",
+        category: "Facas",
+        price_cents: 22990,
+        compare_at_cents: null,
+        images: ["img/item08-1.jpeg", "img/item08-2.jpeg", "img/item08-3.jpeg", "img/item08-4.jpeg", "img/item08-5.jpeg"],
+        stock: 1,
+        featured: false,
+        active: true,
+        sort_order: 26,
+    },
+    
+    {
         id: "tabua-carne-grande",
 
         name: "Faca em inox 10 polegadas, cabo em madeira, Acompanha Bainha",
