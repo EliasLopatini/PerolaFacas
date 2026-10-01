@@ -1,19 +1,5 @@
 const PRODUCTS = [
-
-    {
-        id: "faca-item18",
-        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
-        description: "",
-        category: "Facas",
-        price_cents: 22990,
-        compare_at_cents: null,
-        images: ["img/item18-1.jpeg", "img/item18-2.jpeg", "img/item18-3.jpeg", "img/item18-4.jpeg", "img/item18-5.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 1,
-    },
-    
+ 
     {
         id: "faca-item08",
         name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
