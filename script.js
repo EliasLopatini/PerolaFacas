@@ -7,7 +7,7 @@ const PRODUCTS = [
         category: "Facas",
         price_cents: 22990,
         compare_at_cents: null,
-        images: ["img/item08-1.jpeg", "img/item08-2.jpeg", "img/item08-3.jpeg", "img/item08-4.jpeg", "img/item08-5.jpeg"],
+        images: ["img/item18-1.jpeg", "img/item18-2.jpeg", "img/item18-3.jpeg", "img/item18-4.jpeg", "img/item18-5.jpeg"],
         stock: 1,
         featured: false,
         active: true,
@@ -109,21 +109,7 @@ const PRODUCTS = [
         active: true,
         sort_order: 15,
     },
-
-    {
-        id: "faca-item16",
-        name: "Faca Em Inox 10 Polegadas, Cabo Em Resina, Acompanha Bainha",
-        description: "",
-        category: "Facas",
-        price_cents: 22990,
-        compare_at_cents: null,
-        images: ["img/item16-1.jpeg", "img/item16-2.jpeg", "img/item16-3.jpeg", "img/item16-4.jpeg", "img/item16-5.jpeg"],
-        stock: 1,
-        featured: false,
-        active: true,
-        sort_order: 16,
-    },
-
+ 
     {
         id: "faca-item17",
         name: "Faca Em Inox 8 Polegadas, Cabo Em Madeira, Acompanha Bainha",
